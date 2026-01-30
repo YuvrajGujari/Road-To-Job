@@ -1,0 +1,4 @@
+total_employees: 10
+average_salary: 57500.0
+max_salary: 90000.0
+min_salary: 38000.0

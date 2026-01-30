@@ -1,0 +1,11 @@
+employee_id,name,department,age,salary,experience_years,city
+1,Aarav,Engineering,26,60000,3,Mumbai
+2,Diya,Marketing,29,,5,Pune
+3,Rohan,Engineering,,75000,6,Bangalore
+4,Ananya,HR,32,50000,,Mumbai
+5,Kabir,Sales,28,45000,4,
+6,Meera,Engineering,35,90000,10,Bangalore
+7,Ishaan,Marketing,24,38000,1,Pune
+8,Priya,Sales,,42000,3,Mumbai
+9,Neha,HR,30,,7,Delhi
+10,Arjun,Engineering,27,65000,4,Hyderabad
